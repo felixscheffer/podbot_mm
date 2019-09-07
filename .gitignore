@@ -6,6 +6,9 @@
 *.njsproj
 *.sln
 *.sw?
-
+/.vs
+*.vcxproj.user
 
 *.bak
+/Debug
+
